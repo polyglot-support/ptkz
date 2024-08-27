@@ -1,6 +1,3 @@
-Here’s a synthesized README for the "PolyTokenizer" project that you can use for your Git repository:
-
-```markdown
 # PolyTokenizer (ptkz)
 
 PolyTokenizer (ptkz) is a dynamic, versioned, and multi-modal tokenizer designed to handle complex tokenization tasks across multiple data modalities and versions. It leverages meta-embedding vectors, GPS-style gold code signal spreading, and a consistent hash-style fallback hierarchy to provide robust, scalable, and adaptable tokenization solutions.
@@ -79,5 +76,3 @@ PolyTokenizer is licensed under the MIT License. See the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or issues, please open an issue on GitHub or contact the maintainer at [your email].
-
-```
